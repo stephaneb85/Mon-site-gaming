@@ -1,1 +1,2 @@
-lisez moi
+lisez moi!
+Initialisation du fichier
